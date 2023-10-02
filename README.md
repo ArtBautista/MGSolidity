@@ -64,7 +64,7 @@ Lastly, to burn or deduct some tokens you can click on the dropdown menu beside 
 ## Authors
 
 Art Bautista
-[Art Bautista's Email](202010553@fit.edu.ph)
+Email : 202010553@fit.edu.ph
 
 
 ## License
